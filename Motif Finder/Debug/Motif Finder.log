@@ -1,0 +1,9 @@
+﻿  Motif Finder.cpp
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(130,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(134,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(171,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(186,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(262,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wojci\source\repos\Motif Finder\Motif Finder\Motif Finder.cpp(325,20): warning C4018: '<': signed/unsigned mismatch
+  Motif Finder.vcxproj -> C:\Users\wojci\source\repos\Motif Finder\Debug\Motif Finder.exe
